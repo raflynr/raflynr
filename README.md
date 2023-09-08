@@ -1,4 +1,4 @@
-## <div align="center">Rafly Nur Ramadhani</div>
+## <div align="center">Martino Hansen</div>
 <br>
 <br/>
 
@@ -11,10 +11,11 @@
         <li>✍️ &nbsp; Junior Frontend Developer </li>
         <li>🤔 &nbsp; Currently interested in Database and Frontend</li>
        </ul>
-       <p align="center">
-         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarHansen" align="center" />
-        </p>
+    </td>
+    <td>
+     <p align="center">
+        <img src="https://drive.google.com/uc?id=1-53Gj7oD6B_Qs1zacotd18Nk7h4MjUeT"/>
+     </p>
     </td>
   </tr>
   <tr>
