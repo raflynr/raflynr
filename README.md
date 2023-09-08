@@ -9,7 +9,7 @@
 - 🔭 I’m currently internship on [Can Creative](https://can.co.id/)  
   
 
-- 🌱 I’m currently learning Docker and Mongodb  
+- 🌱 I’m currently learning Docker and PostgreSQL
   
 
 - ❓ Ask me about backend development   
