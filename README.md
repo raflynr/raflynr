@@ -48,8 +48,6 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
