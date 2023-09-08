@@ -2,24 +2,15 @@
 <br>
 <br/>
 
-<table>
-  <tr>
-    <td>
-      <h2> 💻 &nbsp;About Me </h2>
+<h2> 💻 &nbsp;About Me </h2>
        <ul>
         <li>🎓 &nbsp; Computer Science at <a href="https://binus.ac.id/">Binus</a></li>
         <li>✍️ &nbsp; Junior Frontend Developer </li>
         <li>🤔 &nbsp; Currently interested in Database and Frontend</li>
        </ul>
-    </td>
-    <td>
      <p align="center">
         <img src="https://drive.google.com/uc?id=1-53Gj7oD6B_Qs1zacotd18Nk7h4MjUeT"/>
      </p>
-    </td>
-  </tr>
-  <tr>
-   <td>
      <h2> 🛠 &nbsp;Tech Stack</h2>
      
   ### Frontend 
@@ -44,9 +35,6 @@
       <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
       <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
   </div>
-
-   </td>
-   <td>
     <div align="center">
       <h2><b>Reach Me</b></h2>
       <br>
@@ -73,6 +61,4 @@
       </div>  
       <br>
     </div>
-   </td>
-  </tr>
-</table>
+
