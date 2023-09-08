@@ -13,7 +13,7 @@
        </ul>
        <p align="center">
          <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarHansen" align="center" />
+       https://github-readme-stats.vercel.app/api/top-langs/?username=raafly&hide_progress=true
         </p>
     </td>
     <td>
