@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Rafly, a full-time backend developer 👨‍💻</div>  
+# <div align="center">I'm Rafly, a full-time backend developer </div>  
   
   
 
