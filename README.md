@@ -13,7 +13,7 @@
 - ❓ Ask me about backend development   
   
 
-- ⚡ Fun fact: student smk negeri 8 semarang
+- ⚡ Fun fact: student at smk negeri 8 semarang
   
 
 <br/>  
