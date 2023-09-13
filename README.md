@@ -13,7 +13,7 @@
 - ❓ Ask me about backend development   
   
 
-- ⚡ Fun fact: I like to lead   
+- ⚡ Fun fact: student smk negeri 8 semarang
   
 
 <br/>  
