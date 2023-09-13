@@ -5,8 +5,6 @@
 
 # <div align="center">I'm Rafly, a full-time backend developer 👨‍💻</div>  
   
-
-- 🔭 I’m currently internship on [Can Creative](https://can.co.id/)  
   
 
 - 🌱 I’m currently learning Docker and PostgreSQL
