@@ -3,17 +3,15 @@
 </div>  
   
 
-# <div align="center">I'm Rafly, a full-time backend developer </div>  
+# <div align="center">I'm Rafly, a backend developer </div>  
   
   
 
 - 🌱 I’m currently learning Docker and PostgreSQL
   
 
-- ❓ Ask me about backend development   
+- 📩 Contact me raaflynr@gmail.com
   
-
-- ⚡ Fun fact: student at smk negeri 8 semarang
   
 
 <br/>  
