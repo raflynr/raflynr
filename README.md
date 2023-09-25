@@ -1,19 +1,14 @@
 <div align="center">
 <img src="https://camo.githubusercontent.com/1e3dbc060984931eb8b6fd2b40dd512430795002661c5d764526164cdd5c4bae/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d312d3533476a376f4436425f5173317a61636f746431384e6b3768344d6a556554" align="center" height="" width="600" />
 </div>  
-  
 
-# <div align="center">I'm Rafly, a backend developer </div>  
-  
-  
+## Hi there 👋
+I am a software developer with experience in developing applications using the Go language and several related technologies such as Postgres, MySQL, RESTful API, Vue, as well as the Testify unit testing framework to ensure applications run smoothly.
+I am passionate about exploring the latest technologies and learning about new ways to improve the quality and efficiency of app development. Thank You!
 
-- 🌱 I’m currently learning Docker and PostgreSQL
+- **Learning :** I'm currently learning about Redis, Solidity and Microservice
+- **How to reach me** raaflynr@gmail.com
   
-
-- 📩 Contact me raaflynr@gmail.com
-  
-  
-
 <br/>  
 
 ## My Skill Set  
