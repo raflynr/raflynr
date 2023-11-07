@@ -5,9 +5,6 @@
 ## Hi there 👋
 I am a software developer with experience in developing applications using the Go language and several related technologies such as Postgres, MySQL, RESTful API,Vas well as the Testify unit testing framework to ensure applications run smoothly.
 I am passionate about exploring the latest technologies and learning about new ways to improve the quality and efficiency of app development. Thank You!
-
-- **Learning :** I'm currently learning about Redis, Solidity and Microservice
-- **How to reach me** raaflynr@gmail.com
   
 <br/>  
 
