@@ -3,4 +3,12 @@ I am a software developer with experience in developing applications using the G
 I am passionate about exploring blockchain technologies and learning about new ways to improve the quality and efficiency of app development.
 <br/>
 
+## 💻 Technologies & Tools
+
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" height="40" alt="Golang" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
