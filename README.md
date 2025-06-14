@@ -1,6 +1,6 @@
 ## Hi there 👋
-I am a software developer with experience in developing applications using the Go language and several related technologies such as Postgres, and MySQL, as well as the Testify unit testing framework to ensure applications run smoothly.
-I am passionate about exploring blockchain technologies and learning about new ways to improve the quality and efficiency of app development.
+I’m a backend developer with hands-on experience in Go (Golang), Laravel, and Node.js. I work with PostgreSQL and MySQL, and use Testify for unit testing to ensure code quality. I'm familiar with RESTful APIs, concurrency, microservices, Docker, and CI/CD workflows.
+I’m also passionate about blockchain, smart contracts, and dApp development—always looking for better ways to build efficient and scalable applications.
 <br/>
 
 ## 💻 Technologies & Tools
