@@ -4,9 +4,9 @@ I’m also passionate about blockchain, smart contracts, and dApp development al
 <br/>
 
 ## Toolbox
-**Programming Languages:**  PHP, JavaScript, Node.js, Go
-**Frameworks:**  Laravel, Express.js, Fiber
-**Databases:**  MySQL, PostgreSQL, Redis
+**Programming Languages:**  PHP, JavaScript, Node.js, Go <br/>
+**Frameworks:**  Laravel, Express.js, Fiber <br/>
+**Databases:**  MySQL, PostgreSQL, Redis <br/>
 **Tools & Concepts:**  Git, REST API, tRPC, Agile Workflow
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
