@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   Backend engineer passionate about APIs, microservices, and decentralized tech.
-</h3>
+</h2>
 
 ---
 
