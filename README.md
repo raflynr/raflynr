@@ -22,12 +22,6 @@
 
 ---
 
-### 🚀 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafly-nr/)
-- 🧪 [Portfolio](https://YOUR_PORTFOLIO.com)
-
----
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e7490&height=120&section=footer"/>
 </p>
