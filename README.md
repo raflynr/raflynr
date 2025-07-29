@@ -1,10 +1,10 @@
-<p align="center">
+<h3 align="center">
   Backend engineer passionate about APIs, microservices, and decentralized tech.
-</p>
+</h3>
 
 ---
 
-## Tech Stack  
+### Tech Stack  
 > `Go` | `Laravel` | `Node.js` | `PostgreSQL` | `MySQL` | `Redis` | `Docker` | `CI/CD`
 
 ---
