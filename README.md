@@ -8,10 +8,8 @@
 
 ---
 
-### 🧰 Tech Toolbox
-| Languages        | Frameworks & Libraries | Databases        | Tools & DevOps     |
-|------------------|------------------------|------------------|--------------------|
-| Go, PHP, JS, Node.js | Laravel, Express, Fiber | PostgreSQL, MySQL, Redis | Docker, Git, CI/CD, Agile |
+## 🛠 Tech Stack  
+> `Go` | `Laravel` | `Node.js` | `PostgreSQL` | `MySQL` | `Redis` | `Docker` | `CI/CD`
 
 ---
 
