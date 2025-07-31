@@ -9,17 +9,10 @@
 ### 🚀 Tech Stack
 
 - **Languages & Frameworks**:  
-  `Go` | `Laravel` | `Node.js`
+  `Go` | `Laravel` | `Node.js` | `Express.js`
 
 - **Databases & Caching**:  
   `PostgreSQL` | `MySQL` | `Redis`
 
 - **DevOps & Tools**:  
   `Docker` | `CI/CD`
-
----
-
-### 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/rafly-nr/)  
-- [Email](mailto:raaflynr@gmail.com)
