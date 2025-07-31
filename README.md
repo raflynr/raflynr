@@ -1,12 +1,25 @@
-<p align="center" style="font-size: 30x; font-weight: bold;">
-  Backend engineer passionate about APIs, microservices, and decentralized tech.
+<h1 align="center">What's up, I'm a Backend Engineer 👋</h1>
+
+<p align="center">
+  Passionate about building scalable APIs, microservices, and exploring decentralized technologies.
 </p>
 
 ---
 
-**Tech Stack**  
-> `Go` | `Laravel` | `Node.js` | `PostgreSQL` | `MySQL` | `Redis` | `Docker` | `CI/CD`
+### 🚀 Tech Stack
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e7490&height=120&section=footer"/>
-</p>
+- **Languages & Frameworks**:  
+  `Go` | `Laravel` | `Node.js`
+
+- **Databases & Caching**:  
+  `PostgreSQL` | `MySQL` | `Redis`
+
+- **DevOps & Tools**:  
+  `Docker` | `CI/CD`
+
+---
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/rafly-nr/)  
+- [Email](mailto:raaflynr@gmail.com)
