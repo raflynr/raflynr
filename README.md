@@ -1,30 +1,30 @@
-<h1 align="center">What up, I'm a Backend Engineer</h1>
+<h1 align="center">👋 Yow, I'm a Backend Engineer</h1>
 
 <p align="center">
-  I specialize in building high-performance APIs and backend systems.<br>
-  Passionate about clean code, distributed systems, and decentralized technology
+  I build high-performance APIs and backend systems.<br>
+  Clean code, scalability, and decentralized tech are my focus.
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
-- **Languages**: Go, PHP, JavaScript (Node.js)
-- **Frameworks**: Laravel, Express.js, Fiber
-- **Databases**: PostgreSQL, MySQL, Redis
-- **DevOps Tools**: Docker, Git, GitHub Actions
-  
+- **Languages:** Go, PHP, JavaScript (Node.js)  
+- **Frameworks:** Laravel, Express.js, Fiber  
+- **Databases:** PostgreSQL, MySQL, Redis  
+- **Tools:** Docker, Git, GitHub Actions  
+
 ---
 
-## 🔍 What I Focus On
+## 💡 Focus Areas
 
-- Designing scalable and maintainable APIs  
-- Writing clean, testable backend code  
-- Optimizing system performance  
-- Exploring decentralized technologies  
+- Scalable API design  
+- Clean, testable backend code  
+- System performance optimization  
+- Decentralized technologies  
 
 ---
 
 <p align="center">
-  <em>"Build things that scale. Keep things simple."</em>
+  <em>"Build things that scale. Keep it simple."</em>
 </p>
