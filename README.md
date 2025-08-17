@@ -1,30 +1,38 @@
-<h1 align="center">👋 Yow, I'm a Backend Engineer</h1>
+<h1 align="center">Hey, I'm [Your Name] 👋</h1>
+<p align="center">A Backend Engineer passionate about building scalable and high-performance systems.</p>
 
 <p align="center">
-  I build high-performance APIs and backend systems.<br>
-  Clean code, scalability, and decentralized tech are my focus.
+  ![Typing on a keyboard](https://media.giphy.com/media/1dcLFNKRUKvte/giphy.gif)
 </p>
 
 ---
 
-## 🛠 Tech Stack
+### 💻 Tech Stack
 
-- **Languages:** Go, PHP, JavaScript (Node.js)  
-- **Frameworks:** Laravel, Express.js, Fiber  
-- **Databases:** PostgreSQL, MySQL, Redis  
-- **Tools:** Docker, Git, GitHub Actions  
+**Languages:** Go, PHP, JavaScript (Node.js) <br>
+**Frameworks:** Laravel, Express.js, Fiber <br>
+**Databases:** PostgreSQL, MySQL, Redis <br>
+**Tools:** Docker, Git, GitHub Actions <br>
 
 ---
 
-## 💡 Focus Areas
+### 🚀 Focus
 
-- Scalable API design  
-- Clean, testable backend code  
-- System performance optimization  
-- Decentralized technologies  
+- **High-Performance APIs:** Designing and building robust, efficient backend services.
+- **Clean Code:** Writing testable, maintainable, and scalable codebases.
+- **System Architecture:** Optimizing systems for speed and reliability.
+- **Decentralized Tech:** Exploring and building with blockchain and other decentralized technologies.
+
+---
+
+### 🎮 Hobbies
+
+- **Photography:** Capturing moments and landscapes.
+- **Gaming:** Exploring new worlds in RPGs.
+- **Hiking:** Getting a breath of fresh air and a new perspective.
 
 ---
 
 <p align="center">
-  <em>"Build things that scale. Keep it simple."</em>
+  <i>"Build things that scale. Keep it simple."</i>
 </p>
