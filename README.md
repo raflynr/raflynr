@@ -1,9 +1,4 @@
-<h1 align="center">Hey, I'm Rafly 👋</h1>
 <p align="center">A Backend Engineer passionate about building scalable and high-performance systems.</p>
-
-<p align="center">
-  ![Typing on a keyboard](https://media.giphy.com/media/1dcLFNKRUKvte/giphy.gif)
-</p>
 
 ---
 
@@ -22,14 +17,6 @@
 - **Clean Code:** Writing testable, maintainable, and scalable codebases.
 - **System Architecture:** Optimizing systems for speed and reliability.
 - **Decentralized Tech:** Exploring and building with blockchain and other decentralized technologies.
-
----
-
-### 🎮 Hobbies
-
-- **Photography:** Capturing moments and landscapes.
-- **Gaming:** Exploring new worlds in RPGs.
-- **Hiking:** Getting a breath of fresh air and a new perspective.
 
 ---
 
